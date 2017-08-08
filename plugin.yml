@@ -1,0 +1,10 @@
+name: TheDropperDP
+main: TheDropperDP\Main
+version: 1.0.0
+api: 3.0.0
+author: JUZEXMOD
+
+commands:
+  td:
+    usage: /td help
+    description: td commands
